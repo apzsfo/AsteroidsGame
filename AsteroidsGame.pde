@@ -37,7 +37,7 @@ public void keyPressed() {
   ship.setY((int)(Math.random()*601));
   ship.setDirectionX(0);
   ship.setDirectionY(0);
-  ship.setPointDi         rection((int)(Math.random()*360));
+  ship.setPointDirection((int)(Math.random()*360));
   }
   }
 class SpaceShip extends Floater  
